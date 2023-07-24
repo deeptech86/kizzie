@@ -1,0 +1,8 @@
+.row{
+    background-color: rgb(144, 205, 179);
+    height: 10rem;
+    align-items: center;
+    font-size: large;
+    font-family : Tahoma, Geneva, Verdana, sans-serif,cursive;
+    text-transform: uppercase;
+}
